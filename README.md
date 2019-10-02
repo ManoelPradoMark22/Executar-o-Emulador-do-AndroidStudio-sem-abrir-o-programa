@@ -3,7 +3,7 @@ Passo a passo simples e rápido!
 
 *Feito no Windows*
 
-<a href="https://medium.com/@lucasluizss/execute-seu-emulador-android-sem-abrir-o-android-studio-windows-94c826059552">Artigo base</>
+<a href="https://medium.com/@lucasluizss/execute-seu-emulador-android-sem-abrir-o-android-studio-windows-94c826059552">Artigo base</a>
 
 Corrigindo o artigo base - 
 
