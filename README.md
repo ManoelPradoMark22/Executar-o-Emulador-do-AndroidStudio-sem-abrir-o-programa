@@ -4,7 +4,7 @@ Passo a passo simples e rápido!
 *Feito no Windows*
 
 Artigo base:
-<a href="https://medium.com/@lucasluizss/execute-seu-emulador-android-sem-abrir-o-android-studio-windows-94c826059552">
+<a href="https://medium.com/@lucasluizss/execute-seu-emulador-android-sem-abrir-o-android-studio-windows-94c826059552"/>
 
 Corrigindo o artigo base - 
 
