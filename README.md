@@ -4,28 +4,28 @@ Passo a passo simples e rápido!
 *Feito no Windows*
 
 Artigo base:
-https://medium.com/@lucasluizss/execute-seu-emulador-android-sem-abrir-o-android-studio-windows-94c826059552
+<a href="https://medium.com/@lucasluizss/execute-seu-emulador-android-sem-abrir-o-android-studio-windows-94c826059552">
 
 Corrigindo o artigo base - 
 
 Nas versões mais recentes do AndroidStudio o emulador fica na pasta:
-C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator
+*C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator*
 
 Para ver a lista de emuladores, execute o comando nesse local (cmd):
-C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator>emulator.exe -list-avds
+*C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator>emulator.exe -list-avds*
 (Atenção! Exemplo: o nome do meu emulador é Nexus_5X_API_29 , mas, como recomendado no artigo base, deixemos com o x do modelo em minúsculo, assim Nexus_5x_API_29)
 Copie o nome do emulador para usar a seguir!
 
 # Opção 1.
 Para executar o emulador basta executar esse comando nesse local (cmd):
-C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator>emulator.exe -avd Nome_Do_Emulador
+*C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator>emulator.exe -avd Nome_Do_Emulador*
 
 ********************************
 # Opção 2. [Recomendado]
 *Forma automatizada*
 Copie as duas linhas de código a seguir, abra o bloco de notas e cole-as:
 
-cd "C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator"
+cd *"C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator"*
 start emulator.exe -avd Nome_Do_Emulador
 
 Clique em Salvar Como, escolha o tipo como arquivo de texto e no nome do arquivo coloque a extensao .bat
