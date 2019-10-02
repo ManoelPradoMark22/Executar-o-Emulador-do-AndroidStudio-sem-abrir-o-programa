@@ -37,9 +37,9 @@ Para executar o emulador basta executar esse comando nesse local (cmd):
 Copie as duas linhas de código a seguir, abra o bloco de notas e cole-as:
 <br />
 <br />
-cd *"C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator"*
+***cd "C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator"***
 <br />
-start emulator.exe -avd Nome_Do_Emulador
+***start emulator.exe -avd Nome_Do_Emulador***
 <br />
 <br />
 Clique em Salvar Como, escolha o tipo como arquivo de texto e no nome do arquivo coloque a extensao .bat
