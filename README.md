@@ -12,8 +12,8 @@ Nas versões mais recentes do AndroidStudio o emulador fica na pasta:
 
 Para ver a lista de emuladores, execute o comando nesse local (cmd):
 *C:\Users\Nome_Do_Usuário\AppData\Local\Android\Sdk\emulator>emulator.exe -list-avds*
-(Atenção! Exemplo: o nome do meu emulador é Nexus_5X_API_29 , mas, como recomendado no artigo base, deixemos com o x do modelo em minúsculo, assim Nexus_5x_API_29)
-Copie o nome do emulador para usar a seguir!
+(Atenção! Exemplo: o nome do meu emulador é Nexus_5X_API_29 , mas, como recomendado no artigo base, deixemos com o x do modelo em minúsculo, assim Nexus_5x_API_29).
+Copie o nome do SEU emulador para usar a seguir!
 
 # Opção 1.
 Para executar o emulador basta executar esse comando nesse local (cmd):
